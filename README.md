@@ -2,4 +2,6 @@
 
 Kevin
 
+Partner: Akira Youngblood
+
 CSCI Lab 3
