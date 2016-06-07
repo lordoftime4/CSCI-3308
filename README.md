@@ -2,6 +2,6 @@
 
 Kevin
 
-This might cause a merge conflict
+Partner: Akira Youngblood
 
 CSCI Lab 3
